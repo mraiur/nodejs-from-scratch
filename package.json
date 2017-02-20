@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-from-scratch",
+  "version": "1.0.0",
+  "description": "Application from scratch to understand the benefits of expressjs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mraiur/nodejs-from-scratch.git"
+  },
+  "author": "Nikolay Ivanov <mraiur@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mraiur/nodejs-from-scratch/issues"
+  },
+  "homepage": "https://github.com/mraiur/nodejs-from-scratch#readme"
+}
